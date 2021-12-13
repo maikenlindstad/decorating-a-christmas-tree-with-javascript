@@ -1,0 +1,30 @@
+body {
+  background-image: url(../images/winter-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+.baubles {
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+.bauble {
+  width: 50px;
+}
+
+.star {
+  width: 100px;
+}
+
+.decoration {
+  width: 30px;
+  position: absolute;
+  transform: translate(-50%, 0%);
+}
+.tree {
+  height: 100vh;
+  margin-left: 200px;
+}
